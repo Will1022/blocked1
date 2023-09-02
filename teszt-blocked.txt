@@ -1,1 +1,2 @@
 0.0.0.0 bud02s43-in-f14.1e100.net
+0.0.0.0 manifest.googlevideo.com
